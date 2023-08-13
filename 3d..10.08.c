@@ -12,7 +12,7 @@ char arr2[count];
 for(int i=0;i<sizeof(arr);i++){
 	if(arr[i]!=' ')
 	{
-		arr2[j]==arr[i];
+		arr2[j]=arr[i];
 		j++;
     }
 }
