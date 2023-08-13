@@ -1,4 +1,4 @@
-#include <stdio.h>//փ ոքրից մեծ
+#include <stdio.h>//փոքրից մեծ
 int main(){
 int n=0;
 scanf("%d",&n);
