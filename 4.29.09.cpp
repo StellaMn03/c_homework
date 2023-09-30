@@ -15,7 +15,7 @@ int main(){
 		}
 	}
 int sum = 0;
-for(int i = 0;i<n/2*1.0;i++){
+for(int i = 0;i<1.0*n/2;i++){
 	for(int j = i;j<n-i;j++){
 		sum+=ptr[i][j];
 	}
